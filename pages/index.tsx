@@ -1,10 +1,11 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
-	return <div className='bg-black'></div>;
+	return (
+		<div className='h-screen bg-black bg-opacity-60 backdrop-filter backdrop-blur'></div>
+	);
 };
 
 export default Home;
