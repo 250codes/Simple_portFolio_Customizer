@@ -14,15 +14,22 @@ const Home: NextPage = () => {
 					</div>
 					<div className='fakeScreen'>
 						<p className='line1'>
-							&#91;&nbsp;&ldquo;I'm a web developer.&rdquo;,
+							&#91;&nbsp;&ldquo;Hello Am NKUSI Kevin!&rdquo;,
 							<span className='cursor1'>_</span>
 						</p>
 						<p className='line2'>
-							&nbsp;&nbsp;&ldquo;I'm a web designer.&rdquo;,
+							&nbsp;&nbsp;&ldquo;I'm a Software Engineer.&rdquo;,
 							<span className='cursor2'>_</span>
 						</p>
 						<p className='line3'>
-							&nbsp;&nbsp;&ldquo;Let's work together!&rdquo;&nbsp;&#93;
+							&nbsp;&nbsp;&ldquo;Happy To Have You Here&rdquo;&nbsp;&#93;
+							<span className='cursor3'>_</span>
+						</p>
+						<p className='line3'>
+							&nbsp;&nbsp;&ldquo; Lorem ipsum dolor sit amet consectetur
+							adipisicing elit. Laboriosam veniam quis nemo asperiores quaerat
+							numquam blanditiis sequi exercitationem cum, quo vero dicta, ad
+							earum quas. &rdquo;&nbsp;&#93;
 							<span className='cursor3'>_</span>
 						</p>
 						<p className='line4'>
